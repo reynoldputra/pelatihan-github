@@ -3,3 +3,4 @@ TODO
 - sholat
 - makan
 - minum
+- mandi
