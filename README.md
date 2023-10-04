@@ -1,3 +1,4 @@
 TODO
 - kuliah
 - sholat
+- makan
