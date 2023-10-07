@@ -2,4 +2,4 @@ TODO
 - kuliah
 - sholat
 - makan
-- minum
+- minum1
