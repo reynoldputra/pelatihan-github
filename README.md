@@ -2,4 +2,6 @@ TODO
 - kuliah
 - sholat
 - makan
-- minum
+- minum-baru
+- tidur
+- mandi
