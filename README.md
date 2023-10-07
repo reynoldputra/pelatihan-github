@@ -4,4 +4,4 @@ TODO
 - makan
 - minum-baru
 - tidur
-- mandi
+- mandi1
